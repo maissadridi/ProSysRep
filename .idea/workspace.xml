@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220512bc-d123-4b54-8e35-777b3410238e" name="Changes" comment="sockets chat">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessageList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessageListOrBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessageRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessageRequestOrBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessageResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessageResponseOrBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessengerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessengerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessengerProto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/MessengerServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/UserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grpc/UserRequestOrBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/proto/messenger.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="220512bc-d123-4b54-8e35-777b3410238e" name="Changes" comment="grpc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711495514752</updated>
-      <workItem from="1711495515908" duration="1953000" />
+      <workItem from="1711495515908" duration="2642000" />
     </task>
     <task id="LOCAL-00001" summary="pom.xml">
       <option name="closed" value="true" />
@@ -92,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711496761862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="grpc">
+      <option name="closed" value="true" />
+      <created>1711497554286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711497554286</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +91,7 @@
     <MESSAGE value="pom.xml" />
     <MESSAGE value="task - rpc" />
     <MESSAGE value="sockets chat" />
-    <option name="LAST_COMMIT_MESSAGE" value="sockets chat" />
+    <MESSAGE value="grpc" />
+    <option name="LAST_COMMIT_MESSAGE" value="grpc" />
   </component>
 </project>
